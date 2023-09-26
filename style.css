@@ -12,7 +12,7 @@
   font-family: 'CustomFont', sans-serif;
   color: white;
   font-size: 13px;
-  font-weight: 500;
+  font-weight: normal;
 }
 
 html,
@@ -172,7 +172,7 @@ body {
 .header-content > h3 {
   color: black;
   font-size: 20px;
-  font-weight: 600;
+  font-weight: medium;
 }
 
 .header-content .icon-text > span,
@@ -248,7 +248,7 @@ h5 {
 }
 .overview .part-1 > h1 {
   color: #1A181E;
-  font-weight: 600;
+  font-weight: medium;
   font-size: 19px;
   padding-left: 2px;
 }
@@ -297,12 +297,12 @@ h5 {
 #next-payout #heading-payout>h4 {
   color: white;
   font-size: 14px;
-  font-weight: 350;
+  font-style: normal;
 }
 #heading-payout > span {
   font-size: 16px;
   color: white;
-  font-weight: 350;
+  font-style: medium;
 }
 #next-payout #amount-orders-payout {
   display: flex;
@@ -346,10 +346,10 @@ h5 {
 }
 
 #date-time-payout #text {
-  font-weight: 350;
+  font-weight: normal;
 }
 #date-time-payout #time {
-  font-weight: 400;
+  font-weight:medium;
   font-size: 13px;
 }
 .part-2 #amount-pending,
